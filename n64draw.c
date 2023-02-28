@@ -39,4 +39,4 @@ void mainproc(void) {
   while (1) {
     draw_triangle();
   }
-}
+} 
